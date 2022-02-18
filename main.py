@@ -1,7 +1,7 @@
 # %%
 import pandas as pd
 from matplotlib import pyplot as plt
-%matplotlib inline
+# %matplotlib inline
 
 # %%
 df = pd.read_csv("insurance_data.csv")
